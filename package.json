@@ -11,6 +11,7 @@
     "@types/react": "^17.0.11",
     "@types/react-dom": "^17.0.7",
     "@types/styled-components": "^5.1.10",
+    "@wpengine/headless-react": "^0.6.9",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
